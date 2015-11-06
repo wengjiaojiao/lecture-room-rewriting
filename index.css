@@ -290,12 +290,14 @@ ul {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
-.search-two-buttom {
+.search-two-button {
     color: white;
     margin-left: 1010px;
     background: #10E7AD;
     width: 122px;
     margin-top: -62px;
+    border: none;
+    font-size: 18px;
 }
 .chooses {
     height: 25px;
