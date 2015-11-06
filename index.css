@@ -63,16 +63,6 @@ hr {
     line-height: 60px;
     margin-top: 28px;
 }
-.search-one-frame {
-    margin-left: 399px;
-    width: 520px;
-    background: rgba(255, 255, 255, 0.7);
-    border: 0px;
-    color: grey;
-    font-size: 15px;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-}
 .search-one-buttom {
     margin-left: 0px;
     background: #10E7AD;
@@ -280,16 +270,21 @@ ul {
     line-height: 60px;
     float: left;
 }
-.search-two-frame {
-    margin-left: 10px;
-    width: 520px;
-    margin-top: 110px;
-    border: 0px;
+.search-frame {
     background: rgba(255, 255, 255, 0.7);
+    border: 0px;
+    width: 520px;
     color: grey;
     font-size: 15px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
+}
+.search-one-frame {
+    margin-left: 399px;
+}
+.search-two-frame {
+    margin-left: 10px;
+    margin-top: 110px;
 }
 .search-two-button {
     color: white;
