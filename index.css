@@ -1,0 +1,71 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #F4F3F1;
+}
+header {
+    height: 855px;
+    background-image: url(images/sunset-resized.jpg);
+}
+footer {
+    height: 80px;
+    background: #FFFFFF;
+}
+.logo {
+    margin-left: 190px;
+    padding-top: 29px;
+    font-size: 46px;
+    color: white;
+    float: left;
+}
+.sign {
+    margin-right: 189px;
+    height: 37px;
+    width: 94px;
+    border: 1px solid #FFF;
+    margin-top: 31px;
+    color: white;
+    float: right;
+    line-height: 37px;
+    border-radius: 7%;
+}
+.login {
+    margin-right: 24px;
+    margin-top: 42px;
+    color: white;
+    float: right;
+}
+.agents {
+    margin-right: 21px;
+    margin-top: 42px;
+    color: white;
+    float: right;
+}
+.title {
+    margin-left: 407px;
+    padding-top: 304px;
+    color: white;
+    font-size: 34px;
+}
+.subheading {
+    margin-left: 570px;
+    padding-top: 14px;
+    color: white;
+}
+.search-one {
+    height: 60px;
+    line-height: 60px;
+    margin-top: 28px;
+    color: white;
+}
+.search-one-frame {
+    margin-left: 399px;
+    width: 520px;
+    background: #C4C1BE;
+    float: left;
+}
+.search-one-buttom {
+    margin-left: 919px;
+    background: #10E7AD;
+    width: 122px;
+}
