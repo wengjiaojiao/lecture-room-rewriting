@@ -69,3 +69,181 @@ footer {
     background: #10E7AD;
     width: 122px;
 }
+.order {
+    width: 1060px;
+    height: 151px;
+    background: #F4F3F1;
+    margin-left: 190px;
+    margin-top: -90px;
+    border-radius: 5px;
+    border: 1px solid #DFDFDE;
+}
+ul {
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.list {
+    width: 264px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-right: -5px;
+    border: 1px solid #DFDFDE;
+}
+.count {
+    margin-top: 50px;
+}
+.letter {
+    font-size: 10px;
+}
+.question-one {
+    margin-left: 658px;
+    font-size: 17px;
+    margin-top: 79px;
+}
+.question-two {
+    margin-left: 644px;
+    font-size: 17px;
+    margin-top: 102px;
+}
+#number {
+    margin-left: 304px;
+    margin-top: 91px;
+    width: 821px;
+}
+.answers-one {
+    height: 210px;
+    width: 1170px;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+.answer-one {
+    width: 270px;
+    height: 210px;
+    margin-right: 117px;
+    display: inline-block;
+}
+.picture {
+    width: 92px;
+    height: 89px;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.heading {
+    margin-top: 15px;
+    font-size: 18px;
+}
+.message {
+    margin-top: 13px;
+    font-size: 12px;
+    color: #9CA0A0;
+}
+.line-one {
+    margin-top: 120px;
+}
+.answers-two {
+    height: 420px;
+    width: 1228px;
+    margin-left: 185px;
+    margin-top: 85px;
+}
+.answer-two {
+    height: 120px;
+    width: 452px;
+    margin-right: 160px;
+    margin-bottom: 28px;
+    display: inline-block;
+}
+.image {
+    height: 37px;
+    width: 37px;
+    float: left;
+}
+.word {
+    height: 28px;
+    width: 60px;
+    margin-left: 75px;
+    line-height: 28px;
+}
+.description {
+    height: 82px;
+    width: 370px;
+    margin-left: 75px;
+    margin-top: 10px;
+    font-size: 15px;
+    color: #9CA0A0;
+}
+.line-two {
+    margin-top: 135px;
+}
+.tag {
+    height: 60px;
+    width: 185px;
+    border: 1px solid #60667A;
+    line-height: 60px;
+    border-radius: 5px;
+}
+.tag-one {
+    background: #60667A;
+    margin-left: 533px;
+    float: left;
+    margin-top: 71px;
+    color: white;
+}
+.tag-two {
+    margin-left: 720px;
+    margin-top: 80px;
+    color: #60667A;
+}
+.sentence {
+    height: 60px;
+    width: 1050px;
+    margin-top: 85px;
+    margin-left: 195px;
+    color: #60667A;
+    line-height: 30px;
+    font-size: 18px;
+}
+.users {
+    height: 105px;
+    width: 470px;
+    margin-left: 500px;
+    margin-top: 113px;
+}
+.user {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 3px 44px 0px 10px;
+}
+.illustration {
+    height: 280px;
+    margin-top: 131px;
+    background-image: url(images/sunset-resized.jpg);
+}
+.find {
+    margin-left: 313px;
+    padding-top: 127px;
+    color: white;
+    font-size: 24px;
+    float: left;
+}
+.search-two {
+    height: 60px;
+    line-height: 60px;
+    color: white;
+    float: left;
+}
+.search-two-frame {
+    margin-left: 10px;
+    width: 520px;
+    background: #C4C1BE;
+    margin-top: 110px;
+}
+.search-two-buttom {
+    margin-left: 1007px;
+    background: #10E7AD;
+    width: 122px;
+    margin-top: -60px;
+}
