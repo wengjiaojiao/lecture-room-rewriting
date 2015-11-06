@@ -191,7 +191,6 @@ ul {
     width: 185px;
     border: 1px solid #60667A;
     line-height: 60px;
-    border-radius: 5px;
 }
 .tag-one {
     background: #60667A;
@@ -199,11 +198,15 @@ ul {
     float: left;
     margin-top: 71px;
     color: white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .tag-two {
     margin-left: 720px;
-    margin-top: 80px;
+    margin-top: 79px;
     color: #60667A;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 .sentence {
     height: 60px;
