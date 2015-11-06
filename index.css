@@ -11,6 +11,9 @@ footer {
     height: 80px;
     background: #FFFFFF;
 }
+hr{
+    border: 1px solid #E0DFDF;
+}
 .logo {
     margin-left: 190px;
     padding-top: 29px;
