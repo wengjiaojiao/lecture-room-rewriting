@@ -6,7 +6,7 @@ body {
 header {
     height: 855px;
     background-image: url(images/sunset-resized.jpg);
-    opacity: 0.6;
+    opacity: 0.7;
     z-index: 1;
 }
 footer {
@@ -70,6 +70,8 @@ hr {
     border: 0px;
     color: grey;
     font-size: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .search-one-buttom {
     margin-left: 919px;
@@ -78,10 +80,10 @@ hr {
     color: white;
 }
 .order {
+    position: relative;
     width: 1060px;
     height: 151px;
-    /*background: #F4F3F1;*/
-    background: red;
+    background: #F4F3F1;
     margin-left: 190px;
     margin-top: -90px;
     border-radius: 5px;
@@ -257,6 +259,8 @@ ul {
     background: rgba(255, 255, 255, 0.7);
     color: grey;
     font-size: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 .search-two-buttom {
     color: white;
