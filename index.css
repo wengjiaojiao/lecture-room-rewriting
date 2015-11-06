@@ -8,7 +8,6 @@ header {
     background : url(./images/sunset-resized.jpg) no-repeat center top;
     opacity: 0.7;
     z-index: 1;
-
 }
 footer {
     height: 80px;
@@ -16,6 +15,7 @@ footer {
 }
 hr {
     border: 1px solid #E0DFDF;
+    z-index: 1;
 }
 .logo {
     margin-left: 190px;
@@ -113,16 +113,36 @@ ul {
     margin-left: 658px;
     font-size: 17px;
     margin-top: 79px;
+    font-weight: bold;
 }
 .question-two {
     margin-left: 644px;
     font-size: 17px;
     margin-top: 102px;
 }
-.number {
+.numbers {
     margin-left: 304px;
     margin-top: 91px;
     width: 821px;
+    position: relative;
+}
+.number {
+    height: 40px;
+width: 40px;
+line-height: 40px;
+border-radius: 50%;
+background: white;
+color: grey;
+margin-top: -28px;
+border: 1px solid #E0DFDF;
+float: left;
+}
+
+.two {
+    margin-left: 347px;
+}
+.three{
+    margin-left: 348px;
 }
 .answers-one {
     height: 210px;
