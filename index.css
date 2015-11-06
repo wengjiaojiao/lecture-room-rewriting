@@ -6,6 +6,8 @@ body {
 header {
     height: 855px;
     background-image: url(images/sunset-resized.jpg);
+    opacity: 0.6;
+    z-index: 1;
 }
 footer {
     height: 80px;
@@ -59,29 +61,32 @@ hr {
     height: 60px;
     line-height: 60px;
     margin-top: 28px;
-    color: white;
 }
 .search-one-frame {
     margin-left: 399px;
     width: 520px;
-    background: #C4C1BE;
     float: left;
-    background: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.7);
     border: 0px;
+    color: grey;
+    font-size: 15px;
 }
 .search-one-buttom {
     margin-left: 919px;
     background: #10E7AD;
     width: 122px;
+    color: white;
 }
 .order {
     width: 1060px;
     height: 151px;
-    background: #F4F3F1;
+    /*background: #F4F3F1;*/
+    background: red;
     margin-left: 190px;
     margin-top: -90px;
     border-radius: 5px;
     border: 1px solid #DFDFDE;
+    z-index: 2;
 }
 ul {
     padding-left: 0px;
@@ -239,20 +244,23 @@ ul {
 .search-two {
     height: 60px;
     line-height: 60px;
-    color: white;
     float: left;
 }
 .search-two-frame {
     margin-left: 10px;
     width: 520px;
-    background: #C4C1BE;
     margin-top: 110px;
+    border: 0px;
+    background: rgba(255, 255, 255, 0.7);
+    color: grey;
+    font-size: 15px;
 }
 .search-two-buttom {
+    color: white;
     margin-left: 1007px;
     background: #10E7AD;
     width: 122px;
-    margin-top: -60px;
+    margin-top: -62px;
 }
 .chooses {
     height: 25px;
