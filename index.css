@@ -11,7 +11,7 @@ footer {
     height: 80px;
     background: #FFFFFF;
 }
-hr{
+hr {
     border: 1px solid #E0DFDF;
 }
 .logo {
@@ -66,6 +66,8 @@ hr{
     width: 520px;
     background: #C4C1BE;
     float: left;
+    background: rgba(255, 255, 255, 0.5);
+    border: 0px;
 }
 .search-one-buttom {
     margin-left: 919px;
@@ -219,6 +221,8 @@ ul {
     display: inline-block;
     border-radius: 50%;
     margin: 3px 44px 0px 10px;
+    -webkit-filter: grayscale(1);
+    opacity: 0.5;
 }
 .illustration {
     height: 280px;
@@ -265,10 +269,10 @@ ul {
 }
 .marks {
     height: 25px;
-   width: 75px;
-   margin-top: 27px;
-   float: right;
-   margin-right: 177px;
+    width: 75px;
+    margin-top: 27px;
+    float: right;
+    margin-right: 177px;
 }
 .mark {
     height: 25px;
