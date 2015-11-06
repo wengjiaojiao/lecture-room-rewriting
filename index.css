@@ -5,9 +5,10 @@ body {
 }
 header {
     height: 855px;
-    background-image: url(images/sunset-resized.jpg);
+    background : url(./images/sunset-resized.jpg) no-repeat center top;
     opacity: 0.7;
     z-index: 1;
+
 }
 footer {
     height: 80px;
@@ -237,7 +238,8 @@ ul {
 .illustration {
     height: 280px;
     margin-top: 131px;
-    background-image: url(images/sunset-resized.jpg);
+    background : url(./images/sunset-resized.jpg) no-repeat center center;
+
 }
 .find {
     margin-left: 313px;
@@ -264,7 +266,7 @@ ul {
 }
 .search-two-buttom {
     color: white;
-    margin-left: 1007px;
+    margin-left: 1010px;
     background: #10E7AD;
     width: 122px;
     margin-top: -62px;
