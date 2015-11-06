@@ -66,7 +66,6 @@ hr {
 .search-one-frame {
     margin-left: 399px;
     width: 520px;
-    float: left;
     background: rgba(255, 255, 255, 0.7);
     border: 0px;
     color: grey;
@@ -75,10 +74,12 @@ hr {
     border-bottom-left-radius: 5px;
 }
 .search-one-buttom {
-    margin-left: 919px;
+    margin-left: 0px;
     background: #10E7AD;
     width: 122px;
     color: white;
+    border:none;
+    font-size: 18px;
 }
 .order {
     position: relative;
