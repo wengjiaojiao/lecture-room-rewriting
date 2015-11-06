@@ -231,10 +231,17 @@ ul {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+.quotation {
+    height: 20px;
+    margin-top: 55px;
+    font-size: 50px;
+    color: grey;
+    line-height: 20px;
+}
 .sentence {
     height: 60px;
     width: 1050px;
-    margin-top: 85px;
+    margin-top: 12px;
     margin-left: 195px;
     color: #60667A;
     line-height: 30px;
