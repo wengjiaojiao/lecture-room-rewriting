@@ -5,7 +5,7 @@ body {
 }
 header {
     height: 855px;
-    background : url(./images/sunset-resized.jpg) no-repeat center top;
+    background: url(./images/sunset-resized.jpg) no-repeat center top;
     opacity: 0.7;
     z-index: 1;
 }
@@ -128,20 +128,19 @@ ul {
 }
 .number {
     height: 40px;
-width: 40px;
-line-height: 40px;
-border-radius: 50%;
-background: white;
-color: grey;
-margin-top: -28px;
-border: 1px solid #E0DFDF;
-float: left;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    background: white;
+    color: grey;
+    margin-top: -28px;
+    border: 1px solid #E0DFDF;
+    float: left;
 }
-
 .two {
     margin-left: 347px;
 }
-.three{
+.three {
     margin-left: 348px;
 }
 .answers-one {
@@ -258,8 +257,7 @@ float: left;
 .illustration {
     height: 280px;
     margin-top: 131px;
-    background : url(./images/sunset-resized.jpg) no-repeat center center;
-
+    background: url(./images/sunset-resized.jpg) no-repeat center center;
 }
 .find {
     margin-left: 313px;
